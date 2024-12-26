@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/d4142f422cf048ac8e50b6fac36a9aa7/artifacts
+end_time: 1735187765984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d4142f422cf048ac8e50b6fac36a9aa7
+run_name: nervous-crab-36
+run_uuid: d4142f422cf048ac8e50b6fac36a9aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735187745346
+status: 4
+tags: []
+user_id: '31837'
